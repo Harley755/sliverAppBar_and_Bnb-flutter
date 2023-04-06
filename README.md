@@ -1,7 +1,4 @@
-
-
-
-# appbar_tabsbar
+# sliverAppBar And Bottom Navigation Bar
 
 <div>
 
@@ -9,7 +6,7 @@
     <img width="200"
     heigth="500"
       alt="Home Screen - Feed Tab"
-      src="https://github.com/Harley755/online_bag_shop-flutter/blob/master/assets/screenshots/screenshot_1.png"
+      src="https://github.com/Harley755/sliverAppBar_and_Bnb-flutter/blob/master/assets/screenshots/Screenshot_1.png"
     />
   </a>
 
@@ -17,7 +14,7 @@
     <img width="200"
     heigth="500"
       alt="Home Screen - News Tab"
-      src="https://github.com/Harley755/online_bag_shop-flutter/blob/master/assets/screenshots/screenshot_1.png"
+      src="https://github.com/Harley755/sliverAppBar_and_Bnb-flutter/blob/master/assets/screenshots/Screenshot_2.png"
     />
   </a>
  
@@ -25,7 +22,7 @@
     <img width="200"
     heigth="500"
       alt="Notification Screen"
-      src="https://github.com/Harley755/online_bag_shop-flutter/blob/master/assets/screenshots/screenshot_2.png"
+      src="https://github.com/Harley755/sliverAppBar_and_Bnb-flutter/blob/master/assets/screenshots/Screenshot_3.png"
     />
   </a>
  
@@ -35,8 +32,8 @@
 
 Run the following commands to start project configuration : 
 ```
-git clone https://github.com/Harley755/online_bag_shop-flutter.git
-cd online_bag_shop-flutter
+git clone https://github.com/Harley755/sliverAppBar_and_Bnb-flutter.git
+cd sliverAppBar_and_Bnb-flutter
 flutter pub get
 ```
 
